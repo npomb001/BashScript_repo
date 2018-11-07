@@ -7,6 +7,7 @@
 
 
 ###This script is for compressing large directory for archive.
+###For using at UCR HPCC
 
 cd $SLURM_SUBMIT_DIR
 
