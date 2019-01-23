@@ -6,3 +6,4 @@ Repo for bash scripts collection
 - mkblastdb.sh : for making blast database using unite(fungal database)
 - unite_blast.sh : for blasting many fastq files to unite database
 - unite_blast_top8.sh : for blasting many fastq files to unite database and report the top 8 hits
+- rename.files.sh : for rename multiple file with the same pattern
