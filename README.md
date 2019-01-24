@@ -1,5 +1,5 @@
 # BashScript_repo
-Repo for bash scripts collection
+Repo for bash scripts collection (mostly developed under UCR HPCC system)
 
 ## Scripts
 - archive_dir.sh : for archive large directory
@@ -7,3 +7,4 @@ Repo for bash scripts collection
 - unite_blast.sh : for blasting many fastq files to unite database
 - unite_blast_top8.sh : for blasting many fastq files to unite database and report the top 8 hits
 - rename.files.sh : for rename multiple file with the same pattern
+
